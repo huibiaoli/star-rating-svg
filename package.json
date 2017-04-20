@@ -12,6 +12,7 @@
     "type": "git",
     "url": "https://github.com/nashio/star-rating-svg.git"
   },
+  "main": "src/jquery.star-rating-svg.js",
   "bugs": {
     "url": "https://github.com/nashio/star-rating-svg/issues"
   },
